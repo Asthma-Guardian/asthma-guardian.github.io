@@ -4,7 +4,7 @@ keywords:
 comments: false
 
 title: Trust
-description: How shadowenv manages authorization
+description: How asthma guardian manages authorization
 
 page_nav:
   prev:
