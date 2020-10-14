@@ -1,2 +1,2 @@
-# asthma-guardian.github.io
-Documentation for the SDK.
+# Asthma Guardian SDK
+Documentation site for the SDK setup and usage.
